@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Zshm+EFB8uwjuky6ejgnSHuq8iaCZUFFqqsBqX8MrrsYtSpupANH1Dk2q4yMjx+MI5z04lDniv6GVUMpLbWOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel\\Desktop\\tp 6\\Calculadora\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
